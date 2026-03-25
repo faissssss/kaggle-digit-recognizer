@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.zip
+data/
+*.csv
+!sample_submission.csv
+.ipynb_checkpoints/
+.DS_Store
+# Keep models if they are small enough, but usually better to ignore
+# ensemble_*.keras
+# digit_model.keras
