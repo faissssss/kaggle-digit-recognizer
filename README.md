@@ -1,5 +1,6 @@
 # 🏆 Kaggle Digit Recognizer (MNIST) — Top 6% Solution
 
+![Leaderboard](leaderboard.png)
 **Final Score:** 0.99628 Accuracy  
 **Rank:** 72 / 1181 (Top 6%)  
 **Tech Stack:** Python, TensorFlow/Keras, Pandas, NumPy, Scikit-Learn
